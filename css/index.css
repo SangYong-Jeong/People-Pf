@@ -1,0 +1,36 @@
+html,body {height: 5000px; max-width: 1600px; background-color: #f1f1f1;
+font-family: 'Raleway', sans-serif; font-size: 15px; color: #fff; margin: auto;}
+
+.container {margin-left: 300px;}
+
+/********* header-wrapper **********/
+.header-wrapper {background-color: #fff; width: 300px; height: 100%; text-align: center; padding-top: 100px; position: fixed; z-index: 999;}
+.header-wrapper h3.title {font-size: 24px; font-weight: 600; line-height: 1.45; margin-bottom: 80px; color: #777;}
+.header-wrapper .navi-wrap .navi {display: block; padding: 12px 0px; font-weight: 600; font-size: 16px; color: #000; opacity: .6;}
+.header-wrapper .navi-wrap .navi:hover {background-color: #ccc; opacity: 1;}
+
+/********* main-wrapper **********/
+.main-wrapper .img-wrap .img-wp {width: 33.3333%; float: left;}
+.main-wrapper .img-wrap .imgs {opacity: .8; transition: all .5s;
+overflow: hidden;}
+.main-wrapper .img-wrap .imgs:hover {opacity: 1;}
+.main-wrapper .img-wrap .imgs img {transition: all 2s;}
+.main-wrapper .img-wrap .imgs img:hover {transform: scale(1.2);}
+.main-wrapper .table-wrap {display: table; width: 100%;}
+.main-wrapper .number-wp {color: #000; text-align: center;
+background-color: #f1f1f1; padding: 24px; display: inline-block; vertical-align: middle; margin-left: 50%; transform: translate(-55%, 0);}
+.main-wrapper .number-wp .number {padding: 12px 16px; display: inline-block; margin: 0 0; float: left;}
+.main-wrapper .number-wp .number:hover {background-color: #000; color: #fff;}
+.main-wrapper .number-wp .num-black {background-color: #000; color: #fff;}
+.main-wrapper .number-wp .num-black:hover {background-color: #ccc; color: #000;}
+/********* about-wrapper **********/
+
+
+/********* contact-wrapper **********/
+
+
+/********* info-wrapper **********/
+
+
+/********* footer-wrapper **********/
+
